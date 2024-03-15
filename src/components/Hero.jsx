@@ -1,7 +1,6 @@
 import React, { Suspense, startTransition } from "react";
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import Scene from "./Loader";
 import { EarthCanvas } from "./canvas";
 
 const Hero = () => {
