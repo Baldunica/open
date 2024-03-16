@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./roadmap/openviewer.png";
 import menu from './menu.svg'
 import close from './close.svg'
 import dedust_logo from './dex/dedust_logo.svg'
